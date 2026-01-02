@@ -1,0 +1,14 @@
+Statistical Features:
+Mean Intensity: 231.17
+Std Intensity: 17.59
+Median Intensity: 234.00
+Min Intensity: 26.00
+Max Intensity: 252.00
+
+Texture Features:
+Contrast: 468.0862
+Dissimilarity: 3.5914
+Homogeneity: 0.8876
+Energy: 0.4582
+Correlation: 0.9737
+ASM: 0.2099
